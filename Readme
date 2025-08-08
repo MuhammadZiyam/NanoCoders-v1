@@ -1,0 +1,19 @@
+# NanoCoders Website (v1)
+
+This is the official website of NanoCoders – a coding, design, and tech learning platform for kids and teens.
+
+## 🚀 Tech Stack
+- HTML, CSS, JS
+- [Optional: Bootstrap / Tailwind / React]
+- Firebase/Auth or PHP Backend
+
+## 📁 Structure
+- `/public` – Static files
+- `/src` – Source code
+- `/assets` – Images, icons, etc.
+
+## 🛠️ How to Run
+```bash
+git clone https://github.com/YourUsername/nanocoders-website.git
+cd nanocoders-website
+# Open in browser or run with live server
